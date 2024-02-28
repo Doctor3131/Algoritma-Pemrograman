@@ -1,1 +1,1 @@
-merupakan semua latihan pada dasar pemrograman, informatika undip semester 2 :)
+merupakan semua latihan pada algoritma pemrograman, informatika undip semester 2 :)
